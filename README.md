@@ -1,2 +1,3 @@
 # alexa_diapernote
-Calculate the weight of excrement in the diaper and notify the LINE app.
+*おむつの重量（排泄物）を計算し、出たものと重量をLINEへ通知。
+*alexa hosted skillのため、LINEの
